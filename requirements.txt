@@ -17,7 +17,6 @@ open-clip-torch
 torchvision
 scipy==1.11.3
 safetensors==0.4.0
-huggingface_hub==0.19.4
 tqdm==4.66.1
 basicsr==1.4.2
 facexlib==0.3.0
